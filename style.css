@@ -1,0 +1,54 @@
+.explore{
+  display: inline-block;
+  text-decoration: none;
+  color: #111111;
+  border: 1px solid #111111;
+  padding: 5px 20px;
+  font-size: 17px;
+  background: transparent;
+  position: relative;
+}
+.explore:hover{
+  border: 1px solid #111111;
+  background: #111111;
+  transition: 0.1s;
+  color: #ffffff;
+  text-decoration: solid;
+}
+.explorex li a:hover{
+  border: 1px solid #111111;
+  background: #111111;
+  transition: 0.1s;
+  color: #ffffff;
+}
+.name{
+  padding-left: 125px;
+  padding-right: 50px;
+  font-size: 25px;
+  font-weight: 500;
+}
+.courses{
+  display: inline-block;
+  text-decoration: none;
+  color: #111111;
+  font-size: 17px;
+  background: transparent;
+  position: relative;
+}
+.courses:hover{
+  transition: 0.1s;
+  text-decoration: underline;
+  color: #111111;
+}
+.careers li a:hover{
+  text-decoration: underline;
+  transition: 1s;
+}
+.visit:hover{
+  color:#00ccff;
+  text-decoration: underline;
+  transition: 0.1s;
+}
+.login{
+  padding-right: 30px;
+}
